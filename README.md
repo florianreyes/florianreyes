@@ -25,9 +25,6 @@ Reach out!
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=florianreyes&show_icons=true&theme=tokyonight"><img/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florianreyes&layout=compact"><img/>
 
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
