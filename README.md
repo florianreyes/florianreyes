@@ -1,6 +1,6 @@
 # Hello there, i'm Florian👋
 
-I'm Florian, a python developer and data science student.
+I'm Florian, a python developer and computer science student.
 I spend time coding new projects and broadening my knowledge in data processing, analysis and visualization, but also on some creative side projects.
 
 Reach out!
@@ -10,7 +10,7 @@ Reach out!
 ![Gmail](https://img.shields.io/badge/floriandevkings@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 - 🎓 I'm currently studying digital technology at Torcuato DiTella university in Argentina.
-- 🧪 I'm looking for an entry level data analyst job or internship.
+- 🧪 I'm looking for an entry level data science job or internship.
 - 🛠️ On the side, i like to do creative projects like
   **[Science-viz](https://twitter.com/sci_vi?s=20)**.
 - 🎸 Fun fact: i love to play guitar, my fav is Jimi Hendrix.
