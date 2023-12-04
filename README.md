@@ -1,16 +1,16 @@
 # Hello there, i'm Florian👋
 
-I'm Florian, a python developer and computer science student.
-I spend time coding new projects and broadening my knowledge in data processing, analysis and visualization, but also on some creative side projects.
+I'm Florian, a python developer and computer science student. I'm interested about data and cybersecurity.
+I spend time coding new projects and broadening my knowledge in data processing, doing some training at hackthebox, but also on some creative side projects.
 
-Reach out!
+Feel free to reach out!
 
 ![Twitter](https://img.shields.io/badge/Florianreyess-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/Florianreyes-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/floriandevkings@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 - 🎓 I'm currently studying digital technology at Torcuato DiTella university in Argentina.
-- 🧪 I'm looking for an entry level data science job or internship.
+- 🧪 I'm currently working as an Advanced AI data trainer for Invisible Technologies.
 - 🛠️ On the side, i like to do creative projects like
   **[Science-viz](https://twitter.com/sci_vi?s=20)**.
 - 🎸 Fun fact: i love to play guitar, my fav is Jimi Hendrix.
@@ -18,6 +18,9 @@ Reach out!
 ## Top Technologies
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
