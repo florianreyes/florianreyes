@@ -1,11 +1,9 @@
-# Hello there, i'm Florian👋
+# Hello there, i'm Florian
 
 I'm Florian, a python developer and computer science student. I'm interested about data and cybersecurity.
 I spend time coding new projects and broadening my knowledge in data processing, doing some training at hackthebox, but also on some creative side projects.
 
 Feel free to reach out!
-
-![Twitter](https://img.shields.io/badge/Florianreyess-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/Florianreyes-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/floriandevkings@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
