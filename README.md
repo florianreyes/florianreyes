@@ -1,7 +1,7 @@
 # Hello there, i'm Florian
 
-I'm Florian, a python developer and computer science student. I'm interested about data and cybersecurity.
-I spend time coding new projects and broadening my knowledge in data processing, doing some training at hackthebox, but also on some creative side projects.
+I'm Florian, a computer science student and developer. My main interests are Data Engineering and Security.
+I spend time coding new projects and broadening my knowledge in data processing, ETL and doing some training at hackthebox, but also on some creative side projects.
 
 Feel free to reach out!
 ![LinkedIn](https://img.shields.io/badge/Florianreyes-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -9,8 +9,8 @@ Feel free to reach out!
 
 - 🎓 I'm currently studying digital technology at Torcuato DiTella university in Argentina.
 - 🧪 I'm currently working as an Advanced AI data trainer for Invisible Technologies.
-- 🛠️ On the side, i like to do creative projects like
-  **[Science-viz](https://twitter.com/sci_vi?s=20)**.
+- 🛠️ On the side, i have made some creative projects like
+  **[Science-viz](https://twitter.com/sci_vi?s=20)** and **[Scivi](https://www.tiktok.com/@scivi00)**
 - 🎸 Fun fact: i love to play guitar, my fav is Jimi Hendrix.
 
 ## Top Technologies
@@ -18,6 +18,7 @@ Feel free to reach out!
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
