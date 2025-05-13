@@ -4,7 +4,6 @@ I'm Florian, a Security Consultant and Pentester.
 
 Feel free to reach out!
 ![LinkedIn](https://img.shields.io/badge/Florianreyes-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/floriandevkings@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 - I've recently finished my computer science studies at Torcuato DiTella university in Argentina.
 - On the side, i have made some creative projects like **[Scivi](https://www.tiktok.com/@scivi00)**
