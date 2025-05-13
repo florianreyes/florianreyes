@@ -2,7 +2,7 @@
 
 I'm Florian, a Security Consultant and Pentester.
 
-Feel free to reach out!\n
+Feel free to reach out!
 ![LinkedIn](https://img.shields.io/badge/Florianreyes-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 - I've recently finished my computer science studies at Torcuato DiTella university in Argentina.
